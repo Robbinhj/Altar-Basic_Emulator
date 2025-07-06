@@ -31,4 +31,3 @@ När emulatorn startat:
 
 - [abc80sim på GitHub](https://github.com/bztsrc/abc80sim)
 - [Emaculation: ABC80/800 emulatorer](https://www.emaculation.com/doku.php/abc80)
-- 
