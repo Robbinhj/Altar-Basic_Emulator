@@ -13,3 +13,5 @@ echo "Startar ABC80-emulatorn..."
 ./abc80sim &
 
 echo "Ladda BASIC-programmet altar_basic.bas i emulatorn och skriv RUN för att köra."
+
+echo "Byggprocessen är klar! Om du ser detta meddelande fungerade allt."
