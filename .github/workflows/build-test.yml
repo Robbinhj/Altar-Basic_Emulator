@@ -16,3 +16,5 @@ jobs:
 
       - name: Kör installation och bygg
         run: bash install-and-run-abc80sim.sh || true
+      - name: Bekräfta att workflowen körts klart
+        run: echo "GitHub Actions workflowen kördes klart och scriptet exekverades."
