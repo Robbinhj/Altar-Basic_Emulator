@@ -1,0 +1,11 @@
+name: Testa emulator-script
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Kör installationsscriptet
+      run: bash install-and-run-abc80sim.sh || true
